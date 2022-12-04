@@ -1,0 +1,11 @@
+.bg-color{
+    background-color: #f9fbfd;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn-rounded{
+    border-radius: 30px;
+}
+.bgimage{
+    background-image:url("https://th.bing.com/th/id/OIP.5SPJAnkBHZrMyCvhHJ41HgHaEo?pid=ImgDet&rs=1");
+    background-size:cover;
+}
